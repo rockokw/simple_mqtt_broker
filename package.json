@@ -1,0 +1,26 @@
+{
+  "name": "simple_mqtt_broker",
+  "version": "1.0.0",
+  "description": "This is an example of how to build an MQTT broker using aedes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockokw/simple_mqtt_broker.git"
+  },
+  "keywords": [
+    "MQTT"
+  ],
+  "author": "Kwame Wright <kwame.wright@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rockokw/simple_mqtt_broker/issues"
+  },
+  "homepage": "https://github.com/rockokw/simple_mqtt_broker#readme",
+  "dependencies": {
+    "aedes": "^0.34.1"
+  }
+}
