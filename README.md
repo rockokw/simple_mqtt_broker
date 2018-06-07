@@ -1,5 +1,5 @@
 # Simple MQTT Broker
-This is an example of how to build an MQTT broker using Node.js and aedes.
+This is an example of how to build an MQTT broker using Node.js and [aedes](https://github.com/mcollina/aedes/).
 
 The code was tested using:
 
