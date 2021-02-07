@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/rockokw/simple_mqtt_broker#readme",
   "dependencies": {
-    "aedes": "^0.34.1"
+    "aedes": "^0.44.2"
   }
 }

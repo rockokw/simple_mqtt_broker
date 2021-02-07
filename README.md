@@ -3,8 +3,8 @@ This is an example of how to build an MQTT broker using Node.js and [aedes](http
 
 The code was tested using:
 
-* Node.js v8.11.2
-* npm 6.1.0
+* Node.js v12.20.1
+* npm 6.14.10
 
 
 ## Setup
